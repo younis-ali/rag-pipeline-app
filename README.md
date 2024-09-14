@@ -10,18 +10,13 @@ This application allows users to upload PDF files, create a vector database from
 - The POC of RAG pipeline is tested in using `rag_pipeline.ipynb`
 
 ## Screenshots of the RAG app
-- The main screen when you open app
+
 ![first](https://github.com/user-attachments/assets/4c720ae0-14ba-4829-9dff-e0ec37621aa2)
 
--  you upload the pdf
-![second](https://github.com/user-attachments/assets/27e85cc6-4b0f-4969-ba6d-35217f6699aa)
+![third](https://github.com/user-attachments/assets/00a9baaa-5a10-4274-9348-16d3e42ea53e)
 
-- After you create embeddings
-![third](https://github.com/user-attachments/assets/911ebcc3-f220-429e-bd78-b5cad3555942)
+![Screenshot from 2024-09-14 20-05-29](https://github.com/user-attachments/assets/077b3d5b-60d1-4c1e-b9bb-b7d698362c29)
 
-- QA Screen
-![Screenshot from 2024-09-14 20-05-29](https://github.com/user-attachments/assets/ade68bec-8704-43ae-81cb-f29d47806ec0)
-  
  
 
 ## Installation
