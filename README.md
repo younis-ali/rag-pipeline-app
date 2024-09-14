@@ -13,7 +13,7 @@ This application allows users to upload PDF files, create a vector database from
 - The main screen when you open app
 ![first](https://github.com/user-attachments/assets/4c720ae0-14ba-4829-9dff-e0ec37621aa2)
 
-- Screen when you upload the pdf
+-  you upload the pdf
 ![second](https://github.com/user-attachments/assets/27e85cc6-4b0f-4969-ba6d-35217f6699aa)
 
 - After you create embeddings
