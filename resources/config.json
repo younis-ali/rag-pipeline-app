@@ -1,0 +1,6 @@
+{
+    "openai_api_key" : "sk-####-#########################################",
+    "openai_model" : "gpt-4o-mini",
+    "embedding_model" : "sentence-transformers/all-mpnet-base-v2",
+    "vector_db_path" : "faiss_db"
+}
