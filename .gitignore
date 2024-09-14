@@ -1,3 +1,5 @@
 .env/
 .ipynb_checkpoints/
 faiss_db/
+data/
+src/__pycache__/
